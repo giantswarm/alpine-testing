@@ -5,4 +5,4 @@ RUN apk -Uuv add --no-cache \
         curl=7.58.0-r1 \
         ca-certificates=20171114-r0
 
-CMD ["/bin/sh"]
+CMD ["/bin/bash"]
