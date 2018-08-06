@@ -1,4 +1,4 @@
-FROM alpine:3.7
+FROM alpine:3.8
 
 RUN apk -Uuv add --no-cache \
         bash=4.4.19-r1 \
